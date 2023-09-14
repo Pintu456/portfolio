@@ -1,0 +1,39 @@
+.skills {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    margin-top: -100px;
+}
+
+.skills h2 {
+
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+
+h2:hover {
+    text-decoration: underline;
+}
+
+.page1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    font-size: 30px;
+
+}
+
+.page1 h5 {
+
+    background-color: rgb(21, 5, 46);
+    background-color: rgb(21, 5, 46);
+    padding: 12px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    color: rgb(75, 75, 135);
+    box-shadow: 2px 2px 4px 2px;
+}
